@@ -3,7 +3,7 @@ Diese Übung basiert auf der wunderbaren [Coding Kata "ROT-13"](http://ccd-schoo
 
   - **Übungsfokus:** String, Kontrollstrukturen (for-Schleife, if-Abfrage), Problemlösung (vom Problem zum Code), Arbeiten in kleinen abgeschlossenen Schritten 
   - **Geschätzte Übungsdauer:** ca. 30-60 Minuten
-  - **Schwierigkeitsgrad:** *Einsteiger* & *Fortgeschrittene*
+  - **Schwierigkeitsgrad:** *Einsteiger* (auch wenn du schon etwas weiter bist, ist es gut die Grundlagen zu üben)
 
   In dieser Übung geht es darum, dass du
 
@@ -14,3 +14,7 @@ Diese Übung basiert auf der wunderbaren [Coding Kata "ROT-13"](http://ccd-schoo
    - ein `Array` verwendest.
 
 Alle weiteren Details der Übung findest du auf [LernMoment.de](http://www.lernmoment.de/csharp-uebung-1/).
+
+# Absolventen
+
+Bestandteil des Übungskurses ist es, dass sich nach und nach eine Community von angehenden Entwicklern bildet die Freude am Üben haben. Daher findest du hier Links zu Lösungen von Teilnehmern:
