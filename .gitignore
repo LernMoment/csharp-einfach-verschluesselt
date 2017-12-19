@@ -7,6 +7,9 @@
 *.userosscache
 *.sln.docstates
 
+# Ignore vscode specific settings, because not all students will use it!
+.vscode
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
